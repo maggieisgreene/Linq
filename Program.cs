@@ -93,7 +93,6 @@ namespace Linq
             {
                 Console.Write($"{number},");
             }
-            Console.WriteLine("");
         }
     }
 }
